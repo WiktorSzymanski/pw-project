@@ -1,0 +1,12 @@
+/home/wiktor/RiderProjects/ConsoleApp1/ConsoleApp1.Core/obj/Debug/net7.0/ConsoleApp1.Core.csproj.AssemblyReference.cache
+/home/wiktor/RiderProjects/ConsoleApp1/ConsoleApp1.Core/obj/Debug/net7.0/ConsoleApp1.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/wiktor/RiderProjects/ConsoleApp1/ConsoleApp1.Core/obj/Debug/net7.0/ConsoleApp1.Core.AssemblyInfoInputs.cache
+/home/wiktor/RiderProjects/ConsoleApp1/ConsoleApp1.Core/obj/Debug/net7.0/ConsoleApp1.Core.AssemblyInfo.cs
+/home/wiktor/RiderProjects/ConsoleApp1/ConsoleApp1.Core/obj/Debug/net7.0/ConsoleApp1.Core.csproj.CoreCompileInputs.cache
+/home/wiktor/RiderProjects/ConsoleApp1/ConsoleApp1.Core/bin/Debug/net7.0/ConsoleApp1.Core.deps.json
+/home/wiktor/RiderProjects/ConsoleApp1/ConsoleApp1.Core/bin/Debug/net7.0/ConsoleApp1.Core.dll
+/home/wiktor/RiderProjects/ConsoleApp1/ConsoleApp1.Core/bin/Debug/net7.0/ConsoleApp1.Core.pdb
+/home/wiktor/RiderProjects/ConsoleApp1/ConsoleApp1.Core/obj/Debug/net7.0/ConsoleApp1.Core.dll
+/home/wiktor/RiderProjects/ConsoleApp1/ConsoleApp1.Core/obj/Debug/net7.0/refint/ConsoleApp1.Core.dll
+/home/wiktor/RiderProjects/ConsoleApp1/ConsoleApp1.Core/obj/Debug/net7.0/ConsoleApp1.Core.pdb
+/home/wiktor/RiderProjects/ConsoleApp1/ConsoleApp1.Core/obj/Debug/net7.0/ref/ConsoleApp1.Core.dll

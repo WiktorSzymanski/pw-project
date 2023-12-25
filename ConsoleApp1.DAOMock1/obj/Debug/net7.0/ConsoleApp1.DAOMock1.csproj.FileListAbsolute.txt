@@ -1,0 +1,17 @@
+/home/wiktor/RiderProjects/ConsoleApp1/ConsoleApp1.DAOMock1/obj/Debug/net7.0/ConsoleApp1.DAOMock1.csproj.AssemblyReference.cache
+/home/wiktor/RiderProjects/ConsoleApp1/ConsoleApp1.DAOMock1/obj/Debug/net7.0/ConsoleApp1.DAOMock1.GeneratedMSBuildEditorConfig.editorconfig
+/home/wiktor/RiderProjects/ConsoleApp1/ConsoleApp1.DAOMock1/obj/Debug/net7.0/ConsoleApp1.DAOMock1.AssemblyInfoInputs.cache
+/home/wiktor/RiderProjects/ConsoleApp1/ConsoleApp1.DAOMock1/obj/Debug/net7.0/ConsoleApp1.DAOMock1.AssemblyInfo.cs
+/home/wiktor/RiderProjects/ConsoleApp1/ConsoleApp1.DAOMock1/obj/Debug/net7.0/ConsoleApp1.DAOMock1.csproj.CoreCompileInputs.cache
+/home/wiktor/RiderProjects/ConsoleApp1/ConsoleApp1.DAOMock1/bin/Debug/net7.0/ConsoleApp1.DAOMock1.deps.json
+/home/wiktor/RiderProjects/ConsoleApp1/ConsoleApp1.DAOMock1/bin/Debug/net7.0/ConsoleApp1.DAOMock1.dll
+/home/wiktor/RiderProjects/ConsoleApp1/ConsoleApp1.DAOMock1/bin/Debug/net7.0/ConsoleApp1.DAOMock1.pdb
+/home/wiktor/RiderProjects/ConsoleApp1/ConsoleApp1.DAOMock1/bin/Debug/net7.0/ConsoleApp1.Core.dll
+/home/wiktor/RiderProjects/ConsoleApp1/ConsoleApp1.DAOMock1/bin/Debug/net7.0/ConsoleApp1.Interfaces.dll
+/home/wiktor/RiderProjects/ConsoleApp1/ConsoleApp1.DAOMock1/bin/Debug/net7.0/ConsoleApp1.Core.pdb
+/home/wiktor/RiderProjects/ConsoleApp1/ConsoleApp1.DAOMock1/bin/Debug/net7.0/ConsoleApp1.Interfaces.pdb
+/home/wiktor/RiderProjects/ConsoleApp1/ConsoleApp1.DAOMock1/obj/Debug/net7.0/ConsoleApp1.DAOMock1.csproj.CopyComplete
+/home/wiktor/RiderProjects/ConsoleApp1/ConsoleApp1.DAOMock1/obj/Debug/net7.0/ConsoleApp1.DAOMock1.dll
+/home/wiktor/RiderProjects/ConsoleApp1/ConsoleApp1.DAOMock1/obj/Debug/net7.0/refint/ConsoleApp1.DAOMock1.dll
+/home/wiktor/RiderProjects/ConsoleApp1/ConsoleApp1.DAOMock1/obj/Debug/net7.0/ConsoleApp1.DAOMock1.pdb
+/home/wiktor/RiderProjects/ConsoleApp1/ConsoleApp1.DAOMock1/obj/Debug/net7.0/ref/ConsoleApp1.DAOMock1.dll

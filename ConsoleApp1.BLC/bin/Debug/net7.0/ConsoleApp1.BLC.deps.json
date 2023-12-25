@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ConsoleApp1.BLC/1.0.0": {
+        "dependencies": {
+          "ConsoleApp1.Core": "1.0.0",
+          "ConsoleApp1.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleApp1.BLC.dll": {}
+        }
+      },
+      "ConsoleApp1.Core/1.0.0": {
+        "runtime": {
+          "ConsoleApp1.Core.dll": {}
+        }
+      },
+      "ConsoleApp1.Interfaces/1.0.0": {
+        "dependencies": {
+          "ConsoleApp1.Core": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleApp1.Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp1.BLC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConsoleApp1.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConsoleApp1.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
